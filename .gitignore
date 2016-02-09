@@ -38,4 +38,4 @@ bower.json
 .byebug_history
 
 # test ignore
-.test
+*.test
